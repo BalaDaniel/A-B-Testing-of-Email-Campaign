@@ -114,20 +114,13 @@ Fail to reject the null hypothesis
 This means that the observed difference could be due to random variation, and there is insufficient statistical evidence to conclude that Variant B performs better.
 
 **Tools Used**
-
 Python
-
 Pandas
-
 NumPy
-
 SciPy
-
 Jupyter Notebook
 
-GitHub
-
-Key Learnings
+**Key Learnings**
 
 Implemented A/B testing using statistical hypothesis testing
 
