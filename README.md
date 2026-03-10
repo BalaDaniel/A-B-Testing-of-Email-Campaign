@@ -1,11 +1,11 @@
-A/B Testing Analysis – Email Campaign Experiment
+**A/B Testing Analysis – Email Campaign Experiment**
 Project Overview
 
 This project analyzes an A/B test experiment for an email marketing campaign. The goal of the experiment is to determine whether Email Variant B performs better than Email Variant A in generating purchases.
 
 Using statistical hypothesis testing, we compare the conversion rates between the two variants and determine whether the observed difference is statistically significant.
 
-Business Problem
+**Business Problem**
 
 A company launched two versions of a marketing email:
 
@@ -17,7 +17,7 @@ The company wants to know:
 
 Does the new email (Variant B) significantly increase purchase conversion rate compared to Variant A?
 
-Dataset
+**Dataset**
 
 The dataset contains user-level email campaign data with the following columns:
 
